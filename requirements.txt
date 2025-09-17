@@ -1,1 +1,1 @@
-
+#  Um arquivo de texto que lista todas as bibliotecas Python que seu projeto precisa para rodar com um simples pip install -r requirements.txt.
