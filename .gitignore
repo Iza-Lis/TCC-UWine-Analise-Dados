@@ -1,3 +1,5 @@
+# Um arquivo especial que diz ao Git quais arquivos e pastas ignorar. É crucial para não enviar arquivos temporários, de cache ou, principalmente, os arquivos de dados muito grandes para o GitHub. 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +207,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Adicionando a pasta de dados brutos para ignorar
+data/raw/
